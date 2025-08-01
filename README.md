@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="150" alt="Waving hand GIF"/>
+  <img src= "https://tenor.com/ru/view/simple-signature-camera-autograph-gif-gif-18417291170240011701"/>
 </p>
 
 <h1 align="center">Hi👋 My name is Nurislam!</h1>
