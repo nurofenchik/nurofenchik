@@ -1,11 +1,10 @@
 ## 🎓 Education
 
-![SPbPU](https://img.shields.io/badge/Saint%20Petersburg%20Polytechnic%20University-005BBB?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![SPbPU](https://img.shields.io/badge/П-SPbPU-2e8b57?style=for-the-badge&logoColor=white)
 
-**Bachelor's degree in Computer Science and Engineering**  
+**Bachelor's in Computer Science and Engineering**  
 Peter the Great St. Petersburg Polytechnic University (SPbPU)  
 2024 — 2028
-
 
 <!--
 **nurofenchik/nurofenchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
