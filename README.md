@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="./signature.gif" width="150" alt="Signature GIF"/>
+  <img src="signature.gif" width="150" alt="Signature GIF"/>
 </p>
 
 <h1 align="center">Hi👋 My name is Nurislam!</h1>
+
 
 
 
