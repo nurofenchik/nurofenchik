@@ -25,10 +25,11 @@ Peter the Great St. Petersburg Polytechnic University (SPbPU)
 
 ## 📫 Contacts
 
-I'm always open to communication — whether it's collaboration, a cool project idea, or just a friendly chat. Feel free to reach out through any of the platforms below:
+I'm always open to communication
 
-[![Telegram](https://img.shields.io/badge/Telegram-@solarmoon666-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/solarmoon666)
-[![Instagram](https://img.shields.io/badge/Instagram-@solarmoon666_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solarmoon666_)
-[![Email](https://img.shields.io/badge/Email-nuryarmukhamedov@mail.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuryarmukhamedov@mail.ru)
-[![Discord](https://img.shields.io/badge/Discord-solarmoon666-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/solarmoon666)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solarmoon666_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuryarmukhamedov@mail.ru)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
+
 
