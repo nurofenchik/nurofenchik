@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nurofenchik/nurofenchik/raw/main/signature.gif" width="300" alt="Signature GIF"/>
+  <img src="https://raw.githubusercontent.com/nurofenchik/nurofenchik/main/simple-signature-camera-autograph-gif.gif" width="300" alt="Signature GIF"/>
 </p>
 
 <h1 align="center">Hi👋 My name is Nurislam!</h1>
