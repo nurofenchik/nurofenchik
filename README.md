@@ -23,6 +23,18 @@ Peter the Great St. Petersburg Polytechnic University (SPbPU)
 - [Linux Course — Udemy](https://www.udemy.com/share/10biHe3@uIM8_0SUYSvjyDd0elFmXpDlh6D0scdgANcmUrbGixMqGmYCXXahxW3AHcMedkdpGQ==/)
 - [Complete SQL & Databases Bootcamp — Udemy](https://www.udemy.com/share/103yRm3@3YzmTGO5b0EdGliCPSFXpfE5O4Z0fEXU3Z6FpuFipso_sts8r9XDoGaHkOd6o7o_DQ==/)
 
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+
+
 ## 📫 Contacts
 
 I'm always open to communication
