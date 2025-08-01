@@ -34,6 +34,8 @@ Peter the Great St. Petersburg Polytechnic University (SPbPU)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Valentina Studio](https://img.shields.io/badge/Valentina_Studio-00A0E9?style=for-the-badge&logo=database&logoColor=white)
+![Termius](https://img.shields.io/badge/Termius-4A90E2?style=for-the-badge&logo=terminal&logoColor=white)
 
 ## 📫 Contacts
 
