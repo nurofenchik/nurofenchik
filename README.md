@@ -6,7 +6,7 @@
 Peter the Great St. Petersburg Polytechnic University (SPbPU)  
 2024 — 2028
 
-### 📚 Core books I'm studying:
+### 📚 Core books:
 
 - *C Programming Language* — Stephen Prata  
 - *C++ Programming Language* — Stephen Prata  
