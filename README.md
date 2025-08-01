@@ -1,8 +1,9 @@
 <p align="center">
-  <img src= "https://tenor.com/ru/view/simple-signature-camera-autograph-gif-gif-18417291170240011701"/>
+  <img src="https://media.tenor.com/7XCe4t9Acn4AAAAd/simple-signature-camera-autograph-gif.gif" width="150" alt="Signature GIF"/>
 </p>
 
 <h1 align="center">Hi👋 My name is Nurislam!</h1>
+
 
 ## 🎓 Education
 
