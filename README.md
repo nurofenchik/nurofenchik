@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://tenor.com/ru/view/simple-signature-camera-autograph-gif-gif-18417291170240011701"/>
+  <img src= ["https://tenor.com/ru/view/simple-signature-camera-autograph-gif-gif-18417291170240011701"](https://tenor.com/ru/view/simple-signature-camera-autograph-gif-gif-18417291170240011701)/>
 </p>
 
 <h1 align="center">Hi👋 My name is Nurislam!</h1>
