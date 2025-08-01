@@ -1,9 +1,8 @@
 <p align="center">
-  <img height="300" width="600" src="https://github.com/nurofenchik/nurofenchik/raw/main/signature.gif"/>
+  <img src="https://github.com/nurofenchik/nurofenchik/raw/main/signature.gif" width="300" alt="Signature GIF"/>
 </p>
 
 <h1 align="center">Hi👋 My name is Nurislam!</h1>
-
 
 
 
