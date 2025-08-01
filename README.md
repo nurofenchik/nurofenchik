@@ -6,25 +6,19 @@
 Peter the Great St. Petersburg Polytechnic University (SPbPU)  
 2024 — 2028
 
-### 📚 Core books
+---
+
+### 📚 Core Books
 
 - *C Programming Language* — Stephen Prata  
 - *C++ Programming Language* — Stephen Prata  
 - *Effective Modern C++* — Scott Meyers  
 - *Effective C++* — Scott Meyers
 
+---
 
-<!--
-**nurofenchik/nurofenchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍💻 Online Courses
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Git Course — Udemy](https://www.udemy.com/share/10988m3@3dfhcESXK98xO6FKODHT6v9nz6QUG-szV-QehA18ia_sqIxCCYT0LrRVwrUGKMk7wg==/)
+- [Linux Course — Udemy](https://www.udemy.com/share/10biHe3@uIM8_0SUYSvjyDd0elFmXpDlh6D0scdgANcmUrbGixMqGmYCXXahxW3AHcMedkdpGQ==/)
+- [Complete SQL & Databases Bootcamp — Udemy](https://www.udemy.com/share/103yRm3@3YzmTGO5b0EdGliCPSFXpfE5O4Z0fEXU3Z6FpuFipso_sts8r9XDoGaHkOd6o7o_DQ==/)
