@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="150" alt="Waving hand GIF"/>
+</p>
+
+<h1 align="center">Hi👋 My name is Nurislam!</h1>
+
 ## 🎓 Education
 
 ![SPbPU](https://img.shields.io/badge/Saint%20Petersburg%20Polytechnic%20University-2E8B57?style=for-the-badge&logo=graduation-cap&logoColor=white)
