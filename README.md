@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/nurofenchik/nurofenchik/main/simple-signature-camera-autograph-gif.gif" width="300" alt="Signature GIF"/>
+  <img src="https://github.com/nurofenchik/nurofenchik/blob/main/lewis-hamilton.gif" width="300" alt="Signature GIF"/>
 </p>
 
 <h1 align="center">Hi👋 My name is Nurislam!</h1>
