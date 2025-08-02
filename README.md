@@ -1,4 +1,8 @@
-<p align="center">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/nurofenchik/nurofenchik/main/simple-signature-camera-autograph-gif.gif" width="300" alt="Signature GIF"/>
+</p>
+
+<p align="right">
   <img src="https://raw.githubusercontent.com/nurofenchik/nurofenchik/main/simple-signature-camera-autograph-gif.gif" width="300" alt="Signature GIF"/>
 </p>
 
